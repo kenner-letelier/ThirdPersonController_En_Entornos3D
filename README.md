@@ -21,7 +21,3 @@ El proyecto incluye varios NPCs con máquinas de estados únicas:
 https://github.com/user-attachments/assets/3dda66c4-0984-4a90-9225-edbb91458eff
 
 
-
-### 💻 Código Destacado
-* **`PlayerController.cs`**: Lógica principal de movimiento y físicas (Core del proyecto).
-* **`EnemyAI.cs`**: Implementación de la máquina de estados (Idle -> Chase -> Attack).
