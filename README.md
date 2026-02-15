@@ -17,8 +17,7 @@ El proyecto incluye varios NPCs con máquinas de estados únicas:
 ![alt text](Media/gif1.gif)
 ![alt text](Media/gif2.gif)
 ![alt text](Media/gif3.gif)
-<video controls src="Media/TP-Video.mp4" title="Title"></video>
-kenner-letelier/ThirdPersonController_En_Entornos3D/Media/TP-Video.mp4
+<video controls src="kenner-letelier/ThirdPersonController_En_Entornos3D/Media/TP-Video.mp4" title="Title"></video>
 ### 💻 Código Destacado
 * **`PlayerController.cs`**: Lógica principal de movimiento y físicas (Core del proyecto).
 * **`EnemyAI.cs`**: Implementación de la máquina de estados (Idle -> Chase -> Attack).
